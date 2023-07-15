@@ -19,7 +19,6 @@ driver.manage().window().maximize();
 Thread.sleep(3000);
 driver.get("https://magento.softwaretestingboard.com/ ");
 Thread.sleep(10000);
-
 //driver.findElement(By.partialLinkText("Create an Account")).click();
 //driver.findElement(By.id("firstname")).sendKeys("Test");
 //driver.findElement(By.id("lastname")).sendKeys("Demo");
